@@ -4,6 +4,7 @@
 This project focuses on detecting hate speech and offensive language in tweets using a combination of machine learning and deep learning models. The goal is to classify tweets into binary categories: hate/offensive and non-hate speech. The project demonstrates various techniques for data preprocessing, feature extraction, and model training while addressing challenges such as class imbalance.
 
 The implementation involves:
+
 	1.	Preprocessing and cleaning raw text data.
 	2. 	Training and evaluating traditional machine learning models (e.g., Logistic Regression, Random Forest).
 	3.	Building a deep learning model using an LSTM-based architecture for sequence analysis.
@@ -22,7 +23,7 @@ Hate and Offensive Language Detection Dataset on Kaggle - https://www.kaggle.com
 ## Setup
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 2. Run the project:
     ```bash
-    python main.py```
+    python main.py
